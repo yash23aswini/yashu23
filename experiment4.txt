@@ -1,0 +1,9 @@
+EXPERIMENT 4
+clone a remote git respository on a local machine
+
+$pwd
+$cd "/c/users/AIEMS"
+$git clone https://github.com/deekshaa2006/dee1
+$cd dee1
+$ls
+$git remote -v
